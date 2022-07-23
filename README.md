@@ -1,4 +1,4 @@
-# ctaBacktest
+# CTA-Backtesting
 23rd TMBA 程式交易部社課教材
 
 ```
